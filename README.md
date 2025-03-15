@@ -4,10 +4,9 @@ I am Sayan Roy, a passionate AI/ML Enthusiast and Full-Stack Developer 🚀. I l
 
 🧑‍💻 About Me
 
-🎓 B.Tech in Information Technology | IIEST Shibpur (2022-2026)🏆 AI Researcher - Working on AI-based Crop Health Monitoring at IIEST Shibpur, in collaboration with IIT Kharagpur AI4ICPS I Hub💼 Intern at Accenture - Advanced Application Engineering Analyst💡 Strong in Python, C++, Java, JavaScript, Flask, TensorFlow, OpenAI API, and NLP⚡ Competitive Programmer - CodeChef (1256) | LeetCode (272+ Solved)📈 Passionate about AI, Machine Learning, NLP, Web Development, and Open-Source
+🎓 B.Tech in Information Technology | IIEST Shibpur (2022-2026)🏆 AI Researcher - Working on AI-based Crop Health Monitoring at IIEST Shibpur, in collaboration with IIT Kharagpur AI4ICPS I Hub💼 Intern at Accenture - Advanced Application Engineering Analyst💡 Strong in Python, C++, Java, JavaScript, Flask, TensorFlow, OpenAI API, and NLP⚡ Competitive Programmer - CodeChef (1266) | LeetCode (280+ Solved)📈 Passionate about AI, Machine Learning, NLP, Web Development, and Open-Source
 
 🔬 Current Projects
-
 🧠 AI-Based Crop Health Monitoring - Using Deep Learning, Computer Vision, and Edge AI💬 Building Intelligent Chatbots - OpenAI GPT API + NLP📊 Exploring NLP, BERT, and Deep Learning Models
 
 🛠 Tech Stack
@@ -17,13 +16,17 @@ I am Sayan Roy, a passionate AI/ML Enthusiast and Full-Stack Developer 🚀. I l
 🚀 My Top Projects
 
 🤖 Chatbot
-
 💡 AI-powered chatbot using HTML, CSS, JavaScript, Flask, and OpenAI GPT API. Integrated Chroma DB for vector storage and retrieval.
 
 📨 SMS Spam Classifier
-
 📊 Built an NLP model using Bidirectional LSTM + Word2Vec for spam detection with 98.5% accuracy.
 
 🏅 Achievements & Certifications
 
-🏆 1st Place in TensorQuest ML Hackathon, IIEST Shibpur🎖 Air 11222 in JEE MAINS🏅 Secured internship at Accenture as Advanced Application Engineering Analyst📈 Solved 250+ LeetCode Problems📩 Let's Connect
+🏆 1st Place in TensorQuest ML Hackathon, IIEST Shibpur
+🏅 Air 11222 in JEE MAINS
+🏅 Solved 250+ LeetCode Problems📈
+🏅 Achieved 94.6% in Higher Secondary & 90.2% in Secondary Education.
+
+
+📩 Let's Connect
