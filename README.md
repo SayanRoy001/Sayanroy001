@@ -1,10 +1,10 @@
 Hi there! 👋
 
-I am Sayan Roy, a passionate AI/ML Enthusiast and Full-Stack Developer 🚀. I love solving complex problems, building scalable applications, and contributing to the open-source community.
+I am Sayan Roy, an Aspiring Software Developer with passion in AI/ML and Full-Stack Development 🚀. I love solving complex problems, building scalable applications, and contributing to the open-source community.
 
 🧑‍💻 About Me
 
-🎓 B.Tech in Information Technology | IIEST Shibpur (2022-2026)🏆 AI Researcher - Working on AI-based Crop Health Monitoring at IIEST Shibpur, in collaboration with IIT Kharagpur AI4ICPS I Hub💼 Intern at Accenture - Advanced Application Engineering Analyst💡 Strong in Python, C++, Java, JavaScript, Flask, TensorFlow, OpenAI API, and NLP⚡ Competitive Programmer - CodeChef (1266) | LeetCode (280+ Solved)📈 Passionate about AI, Machine Learning, NLP, Web Development, and Open-Source
+🎓 B.Tech in Information Technology | IIEST Shibpur (2022-2026)🏆 AI Researcher - Working on AI-based Crop Health Monitoring at IIEST Shibpur, in collaboration with IIT Kharagpur AI4ICPS I Hub💼 Intern at Accenture - Advanced Application Engineering Analyst💡 Strong in Python, C++, Java, JavaScript, Flask, TensorFlow, OpenAI API, and NLP⚡ Competitive Programmer - CodeChef (1266) | LeetCode (350+ Solved)📈 Passionate about AI, Machine Learning, NLP, Web Development, and Open-Source
 
 🔬 Current Projects
 🧠 AI-Based Crop Health Monitoring - Using Deep Learning, Computer Vision, and Edge AI💬 Building Intelligent Chatbots - OpenAI GPT API + NLP📊 Exploring NLP, BERT, and Deep Learning Models
@@ -18,6 +18,9 @@ I am Sayan Roy, a passionate AI/ML Enthusiast and Full-Stack Developer 🚀. I l
 🤖 Chatbot
 💡 AI-powered chatbot using HTML, CSS, JavaScript, Flask, and OpenAI GPT API. Integrated Chroma DB for vector storage and retrieval.
 
+🌿 Plant Disease Detector
+🖼️ Fine-tuned a ConvMixer (kernel 9, depth 20) on a 38-class augmented dataset (>!95 % val accuracy), deployed via a Flask REST API for image preprocessing and JSON inference, and built a React frontend with drag-and-drop leaf uploads for instant disease diagnosis.
+
 📨 SMS Spam Classifier
 📊 Built an NLP model using Bidirectional LSTM + Word2Vec for spam detection with 98.5% accuracy.
 
@@ -25,7 +28,7 @@ I am Sayan Roy, a passionate AI/ML Enthusiast and Full-Stack Developer 🚀. I l
 
 🏆 1st Place in TensorQuest ML Hackathon, IIEST Shibpur
 🏅 Air 11222 in JEE MAINS
-🏅 Solved 250+ LeetCode Problems📈
+🏅 Solved 350+ LeetCode Problems📈
 🏅 Achieved 94.6% in Higher Secondary & 90.2% in Secondary Education.
 
 
