@@ -4,7 +4,7 @@ I am Sayan Roy, an Aspiring Software Developer with passion in AI/ML and Full-St
 
 🧑‍💻 About Me
 
-🎓 B.Tech in Information Technology | IIEST Shibpur (2022-2026)🏆 AI Researcher - Working on AI-based Crop Health Monitoring at IIEST Shibpur, in collaboration with IIT Kharagpur AI4ICPS I Hub💼 Intern at Accenture - Advanced Application Engineering Analyst💡 Strong in Python, C++, Java, JavaScript, Flask, TensorFlow, OpenAI API, and NLP⚡ Competitive Programmer - CodeChef (1266) | LeetCode (350+ Solved)📈 Passionate about AI, Machine Learning, NLP, Web Development, and Open-Source
+🎓 B.Tech in Information Technology | IIEST Shibpur (2022-2026)🏆 AI Researcher - Working on AI-based Crop Health Monitoring at IIEST Shibpur, in collaboration with IIT Kharagpur AI4ICPS I Hub💼 Intern at Accenture - Advanced Application Engineering Analyst💡 Strong in Python, C++, Java, JavaScript, Flask, TensorFlow, OpenAI API, and NLP⚡ Competitive Programmer - CodeChef (1266) | LeetCode (300+ Solved)📈 Passionate about AI, Machine Learning, NLP, Web Development, and Open-Source
 
 🔬 Current Projects
 🧠 AI-Based Crop Health Monitoring - Using Deep Learning, Computer Vision, and Edge AI💬 Building Intelligent Chatbots - OpenAI GPT API + NLP📊 Exploring NLP, BERT, and Deep Learning Models
