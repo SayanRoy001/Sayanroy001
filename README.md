@@ -28,7 +28,7 @@ I am Sayan Roy, an Aspiring Software Developer with passion in AI/ML and Full-St
 
 🏆 1st Place in TensorQuest ML Hackathon, IIEST Shibpur
 🏅 Air 11222 in JEE MAINS
-🏅 Solved 350+ LeetCode Problems📈
+🏅 Solved 300+ LeetCode Problems📈
 🏅 Achieved 94.6% in Higher Secondary & 90.2% in Secondary Education.
 
 
