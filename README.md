@@ -81,4 +81,4 @@ Solved counts and ratings are available in my coding profiles and resume.
 
 ---
 
-## My Top Repos are:
+## My Top Repositories are:
