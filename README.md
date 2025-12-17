@@ -1,10 +1,15 @@
 # Hi — I’m Sayan Roy 👋
 
 **B.Tech (Information Technology) | Aspiring Software Engineer**  
-I build reproducible projects, solve algorithmic problems, and contribute to open-source. Currently strengthening backend, CI/CD, and ML deployment skills while preparing for GSoC 2026.
+I build reproducible projects, solve algorithmic problems, and contribute to open-source.  
+Currently strengthening backend, CI/CD, and ML deployment skills while preparing for **GSoC 2026**.
 
-📍 India · ✉️ **sayanroy7989@gmail.com** · [Resume (PDF)](./Sayan_Roy_Aspiring_SDE-1.pdf) :contentReference[oaicite:0]{index=0}  
-GitHub: https://github.com/SayanRoy001 · LeetCode: `noob_coder_01`
+📍 India  
+✉️ **Email:** sayanroy7987@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sayan-roy-4b844625b/  
+📄 **Resume:** Sayan_Roy_Aspiring_SDE-1.pdf  
+💻 **GitHub:** https://github.com/SayanRoy001  
+🧩 **LeetCode:** `noob_coder_01`
 
 ---
 
