@@ -7,9 +7,6 @@ Currently strengthening backend, CI/CD, and ML deployment skills while preparing
 📍 India  
 ✉️ **Email:** sayanroy7987@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/sayan-roy-4b844625b/  
-📄 **Resume:** Sayan_Roy_Aspiring_SDE-1.pdf  
-💻 **GitHub:** https://github.com/SayanRoy001  
-🧩 **LeetCode:** `noob_coder_01`
 
 ---
 
@@ -21,7 +18,7 @@ Currently strengthening backend, CI/CD, and ML deployment skills while preparing
 
 ---
 
-## 🔧 Tech Stack (concise & honest)
+## 🔧 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,15 +34,16 @@ Currently strengthening backend, CI/CD, and ML deployment skills while preparing
 
 ### Backend & Deployment
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### ML & Data (exploratory)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-
-> Keep only badges for tools you have used when copying into your README. Remove any that you cannot discuss confidently.
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
@@ -64,11 +62,6 @@ Currently strengthening backend, CI/CD, and ML deployment skills while preparing
 - Self-supervised U-Net style colorization model trained on ImageNet subsets.  
 - Full-stack demo with FastAPI backend for inference and a React + TypeScript frontend.
 
-### **Chatbot** — `CSS / Frontend` · [repo](https://github.com/SayanRoy001/Chatbot)  
-- Department information chatbot built with web frontend; clean UI and accessible content for students.
-
-*(Links above assume these repository names — if any repo name differs, update the URLs accordingly.)*
-
 ---
 
 ## 🧠 Competitive Programming & Problem Solving
@@ -85,15 +78,4 @@ I enjoy DSA and competitive programming because they improve the way I approach 
 
 ---
 
-## Quickstart (how to run a demo locally)
-> Example for a Python/Flask project; replace with repo-specific instructions in each project README.
-
-```bash
-git clone https://github.com/SayanRoy001/Plant-Disease-Detection
-cd Plant-Disease-Detection
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-# start API (example)
-python app.py
-# open frontend or use curl to test endpoints
+## My Top Repos are:
