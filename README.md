@@ -64,12 +64,15 @@ Currently strengthening backend, CI/CD, and ML deployment skills while preparing
 
 ---
 
-## 🧠 Competitive Programming & Problem Solving
-I enjoy DSA and competitive programming because they improve the way I approach complex problems and write correct, efficient code.
+## 🧠 Problem-Solving & Competitive Programming
 
-- **Practice areas:** Graphs, Trees, Dynamic Programming, Greedy, Number Theory, Data Structures.  
-- **Approach I follow:** Understand constraints → choose right data structure → prove complexity bounds → write clean code handling corner cases.  
-- Current practice log and solved counts are in my profile and resume. See resume for achievements. :contentReference[oaicite:1]{index=1}
+I write effective and accurate solutions by practicing **DSA and competitive programming** to strengthen my problem-solving abilities. **C++** is my primary programming language.
+
+- **Platforms:** LeetCode, CodeChef, Codeforces
+- **Focus areas:** Arrays, Trees, Graphs, Dynamic Programming, Greedy, Binary Search, Number Theory  
+- **Approach:** Analyze constraints → select optimal data structures → write clear, edge-case-safe code  
+
+Solved counts and ratings are available in my coding profiles and resume.
 
 ---
 
